@@ -11,3 +11,5 @@ color: white;
 font-size: 70px;
 text-align: center;
 }
+h2 {
+font-size: 50px

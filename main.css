@@ -7,7 +7,9 @@ margin: 70px;
 }
 
 h1 {
-color: white;
+color: rgb(255, 27, 118);
 font-size: 70px;
 text-align: center;
 }
+h2 {
+font-size: 50px
