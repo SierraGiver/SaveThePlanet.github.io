@@ -3,12 +3,16 @@
 <html>
 <head>
 <title>Save The Planet</title>
+<link rel="icon" href="earth.png" type="image/png" sizes="16x16">
 </head>
 <body>
 
 <h1>Save the planet</h1>
 <p>One koala. One world. The last koala on Koala Planet, Bob, is Koala Planet's last hope. Once he collects all the coins his world shall be saved! </p>
 <h2>Instructions</h2>
+<p> Use the arrow keys to move the koala through the map.
+collect the coins and get to the green dot.
+     <div align="center><iframe allowtransparency="true" width="485" height="402" src="//scratch.mit.edu/projects/embed/114985681/?autostart=false" frameborder="0" allowfullscreen></iframe><div>
 
 </body>
 </html>
