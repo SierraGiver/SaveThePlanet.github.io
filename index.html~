@@ -11,9 +11,13 @@
 <p>One koala. One world. The last koala on Koala Planet, Bob, is Koala Planet's last hope. Once he collects all the coins his world shall be saved! </p>
 <h2>Instructions</h2>
 <p> Use the arrow keys to move the koala through the map.
-collect the coins and get to the green dot.
+collect the coins and get to the green dot.</p>
     <div align="middle"><iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/114985681/?autostart=false" frameborder="0" allowfullscreen></iframe></div>
-
 </body>
-</html>
+ 
+<footer>
+<p>For more games by SierraGiver click <a href="pingpong.hmtl">here</a></p>
+</footer>
 
+</html>
+<link>
