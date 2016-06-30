@@ -7,7 +7,7 @@
 </head>
 <body> 
    
-<h1>Ping Pong Online</h1>
+<h1>Burning Flame</h1>
 <h2>Instructions</h2>
 <p>Move your mouse to move the paddle
 Everytime the ball hits the paddle you recive a point</p>
@@ -15,7 +15,8 @@ Everytime the ball hits the paddle you recive a point</p>
 <footer>
 <p><a href="index.html">Save the Planet</a></p>
 <p><a href="mario.html">Super Mario Bros.</a></p>
-<p><a href="burningflame.html">Burning Flame</a></p>S
+<p><a href="pingpong.html">Ping Pong Online</a></p>
+
 </footer>
 </body>
 </html>
