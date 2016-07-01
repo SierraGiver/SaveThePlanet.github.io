@@ -27,3 +27,7 @@ margin-right: 30px;
 li a { 
 font-size: 20px;
 } 
+
+gallery-item {
+margin: 30px;
+border: 50px;

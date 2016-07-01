@@ -22,7 +22,8 @@
 <li><a href="mario.html">Super Mario Bros. </a></li>
 </ul>
 </div>
-<img src="http://www.gamecreation.org/sites/default/files/lineland-3.png">
+<img src="http://www.gamecreation.org/sites/default/files/lineland-3.png"
+class="gallery-item">
 
 </body>
 </html>
