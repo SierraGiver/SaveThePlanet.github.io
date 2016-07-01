@@ -2,7 +2,7 @@
 <link rel="stylesheet" type="text/css" href="main.css"/>
 <html>
 <head>
-<title>Video Gmae Homepage</title>
+<title>Video Game Homepage</title>
 <link rel="icon" href="videogamecontroller.jpg">
 </head>
 <body>
@@ -13,7 +13,7 @@
 
 
 
-<p><a href="index.html">Save the Planet</a></p>
+<p><a href="homepage.html">Save the Planet</a></p>
 <p><a href="pingpong.html">Ping Pong Online</a></p>
 <p><a href="burningflame.html">Burning Flame</a></p>
 <p><a href="lineland.html">Lineland</a></p>
