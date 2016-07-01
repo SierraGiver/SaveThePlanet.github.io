@@ -17,8 +17,8 @@ font-size: 50px
 .nav{
 background-color: #006FFF;
 width: 100%;
-height: 40px;
-padding: 30px;
+
+padding: 10px;
 }
 li {
 display: inline;
@@ -32,4 +32,5 @@ font-size: 20px;
 .gallery-item {
 height: 50px;
 width: 50px;
+padding: 20px;
 }
