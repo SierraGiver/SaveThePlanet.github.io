@@ -2,12 +2,12 @@ body {
  background-image: url(http://backgrounds.picaboo.com/download/f4/44/f4498a1858b2475a9c777f5de5d57fc9/Blue%20solid%20matches%20dots.jpg);
 text-align: center;
 font-size: 40px;
-color: rgb(135, 255, 126);
+color: white;
 margin: 70px;
 }
 
 h1 {
-color: rgb(255, 27, 118);
+color: rgb(135, 255, 126);
 font-size: 70px;
 text-align: center;
 }
