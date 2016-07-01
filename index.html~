@@ -22,7 +22,7 @@
 <li><a href="mario.html">Super Mario Bros. </a></li>
 </ul>
 </div>
-<img class="gallery-item "src="https://cdn3.vox-cdn.com/thumbor/NsFDR-9V-EdXtAZ4HqaZgpYQHFM=/0x0:960x540/1600x900/cdn0.vox-cdn.com/uploads/chorus_image/image/47484177/super_mario_bros.0.png">
+<img class="gallery-item" style="width: 600px; height: 600px;"src="https://cdn3.vox-cdn.com/thumbor/NsFDR-9V-EdXtAZ4HqaZgpYQHFM=/0x0:960x540/1600x900/cdn0.vox-cdn.com/uploads/chorus_image/image/47484177/super_mario_bros.0.png">
 
 </body>
 </html>
